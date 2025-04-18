@@ -1,0 +1,26 @@
+AIM :
+	To write a C program to perform line clipping using Cohen Sutherland Algorithm.
+EQUIPMENT REQUIRED:
+●	Hardware: Personal Computer (PC)
+●	Software: C Compiler
+
+ALGORITHM :
+Step 1: Start
+Step 2: Get the bottom-left coordinate of view port from the user. 
+Step 3: Get the top-right coordinate of view port from the user.
+Step 4: Get the coordinates of 1st end point of line from the user.
+Step 5: Get the coordinates of 2nd endpoint of line from the user.
+Step 6: Print the region code of the first and second point.
+Step 7: If the points lie inside the view port, print ”The line is totally visible”.
+Step 8: If the starting point lies outside the view port, print “The line is invisible” 
+Step 9: If the starting point lies inside the view port and the ending point lies outside the        view port, print “The line is partially visible” 
+Step 10: Clip the line present outside the view port.
+Step 11: Draw the clipped line present inside the view port.
+Step 12: Stop
+
+Program :
+
+Output :
+
+Result :
+
